@@ -36,6 +36,7 @@ button {
   width: 100%;
   font: inherit;
   background: transparent;
+  cursor: pointer;
   border: none;
   color: #ded8e6;
   display: flex;
